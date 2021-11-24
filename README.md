@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+# Rahman Ashraf
 
-<!--
-**rahmanashraf/rahmanashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- First day 21.10.1995 (I rememember) [21oct](https://tr.wikipedia.org/wiki/21_Ekim)
+- Graduated from BSU-International Relationship faculty
+- My articles while I was a student [Wordpress](https://rehmanesrefov.wordpress.com/)
+- DV2021 lottery winner(looser). Victims of the Quarantine!
+- DONT FORGET THIS! "After the rain, the nice wheater"
+- I was accountant until 4 month ago but nooooow!,
+- Start My New Life: 14 september 2021 (as first day of school it's ironic :)
+- My first Foundamental project :[Loading...](https://rahmanashraf.github.io/PragmatechFoundationProject/ProjectFrontEnd%2Fportfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
