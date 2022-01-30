@@ -2,7 +2,7 @@
 # Rahman Ashraf
 
 
-- First day 21.10.1995 (I rememember) [21oct](https://tr.wikipedia.org/wiki/21_Ekim)
+- First day 21.10.1995 [21oct](https://tr.wikipedia.org/wiki/21_Ekim)
 - Graduated from BSU-International Relationship faculty
 - My articles while I was a student [Wordpress](https://rehmanesrefov.wordpress.com/)
 - DV2021 lottery winner(looser). Victims of the Quarantine!
